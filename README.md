@@ -75,7 +75,7 @@ database/schema.sql
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LibraryManagementSystem.git
+git clone https://github.com/pashvithareddy-debug/LibraryManagementSystem.git
 cd LibraryManagementSystem
 ```
 
