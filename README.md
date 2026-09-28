@@ -273,6 +273,12 @@ This project was developed to strengthen practical skills in:
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [`LICENSE`](LICENSE) file for details.
+
 ## 👩‍💻 Author
 
 ### Ashvitha Reddy
